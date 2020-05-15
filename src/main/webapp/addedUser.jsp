@@ -15,5 +15,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 <title>User added</title>
+<%@ taglib prefix="s" uri="/struts-tags" %>
 
 <h3>User added successfully</h3>
